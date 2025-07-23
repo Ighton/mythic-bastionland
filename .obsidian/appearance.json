@@ -1,0 +1,14 @@
+{
+  "accentColor": "#2157a2",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "dataview",
+    "extended-colorschemes",
+    "its-frontmatter",
+    "minimal-cards",
+    "S - Images Adjustments"
+  ],
+  "baseFontSize": 17,
+  "theme": "obsidian",
+  "baseFontSizeAction": false
+}

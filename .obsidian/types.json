@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "type": "text",
+    "district": "multitext",
+    "category": "multitext",
+    "neighbourhood": "multitext"
+  }
+}

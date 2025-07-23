@@ -1,0 +1,12 @@
+.dataview.small-text { 
+	display: none; 
+}
+
+/* header */
+.table-view-th>span{
+	font-weight: var(--bold-weight);
+	color: var(--bold-color);
+	font-size: var(--table-header-size);
+}
+
+/* 

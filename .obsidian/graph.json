@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "-path:\"Notes\" - path:z_Attachments - path:z_Templates",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"2. People\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10481801
+      }
+    },
+    {
+      "query": "path:\"4. World/Shanghai & Districts\" ",
+      "color": {
+        "a": 1,
+        "rgb": 5396724
+      }
+    },
+    {
+      "query": "path:\"3. Places\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13857651
+      }
+    },
+    {
+      "query": "path:\"4. World\" ",
+      "color": {
+        "a": 1,
+        "rgb": 8171261
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.01875,
+  "collapse-forces": false,
+  "centerStrength": 0.268229166666667,
+  "repelStrength": 12.4479166666667,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.4402632686891329,
+  "close": true
+}
