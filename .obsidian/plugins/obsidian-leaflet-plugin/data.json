@@ -1690,7 +1690,7 @@
     },
     {
       "id": "sweibar-regional",
-      "lastAccessed": 1753531257389,
+      "lastAccessed": 1753533403986,
       "markers": [
         {
           "id": "ID_c97ba968c85a",
@@ -1936,6 +1936,7 @@
             -13.5,
             38.6875
           ],
+          "link": "Canyon Vista",
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -1949,13 +1950,17 @@
           "id": "ID_8a2b084acb4b",
           "type": "Sanctum",
           "loc": [
-            -27.4375,
-            14.5625
+            -27.78125,
+            14.625
           ],
+          "link": "Silent Grove",
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.2947103274559194,
+            0.4355707986281235
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -1968,6 +1973,7 @@
             -46.4375,
             14.4375
           ],
+          "link": "Soothing Thunder",
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,

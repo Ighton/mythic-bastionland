@@ -1,0 +1,5 @@
+- Roiling clouds hang above, even on otherwise clear days
+- At night, the clouds give way to [[The Rising Seer]]
+- Embers of starlight in the form of a man, streaks of light soaring upward.
+- Touch grants glimpses of foresight for the rest of the day.
+- Wants to find somebody virtuous enough to take their place, after which they can ascend fully to the stars.
