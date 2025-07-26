@@ -1,0 +1,8 @@
+Lands of the [[Tarinnian Dynasty (House)]]. The Dynasty has ruled over their ancestral lands for over a thousand years, and so the name of the dynasty has become eponymous with their lands.
+## Rule
+The realm is divided into six despotates, each ruled by a Despot. Each is a member of the Tarin family, who gather several times a year to discuss formal matters, along with the head of the Dynasty: the oldest male descendant of the previous head. The despots enjoy a great deal of sovereignty, and war between them is not uncommon, especially in times where there is a lesser threat from outside.
+## History
+**452, 6th Era** — With the threat from the north suddenly increasing tenfold, the region sees a revival of the belief in the God-King Tarin. It becomes a state-sponsored religion, and the clergy and nobility are heavily intertwined.
+**455, 6th Era** — Under threat of persecution, scholars, various nobility, and rich merchants, flee from the lands of the Tarinnians to Arinthia or Calderei.
+## Peoples of Tarin
+The lands of the Tarin family are highly stratified. There are several castes, and belonging to an esteemed one, or marrying up, is seen as one of the greatest honors. Only the highest of castes are allowed to train in the various magical arts, and occult ability is highly valued as a consequence. Due to the many hardships the nations has faced, they are a bitter and occasionally cold people. Mirroring the values of the ruling family, the extended family is a very important pillar of the culture.

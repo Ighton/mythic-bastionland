@@ -1,0 +1,1 @@
+Divine book, penned by the [[Four Divines]]. A second book, the [[Book of Traditions]], was written by followers of the divines.
