@@ -1,0 +1,12 @@
+*On colde misty hilles, bestes wyly and fell,*  
+*In holdes and havens the vassales dwell.*  
+*The seers konne al — the bygynnyng, the ende,*  
+*Hushed ben the mytes whereto trouthe mot bende.*
+
+*Beside waggaboundes on snakysly weyes,*
+*Knyghtes tellen these tales y-ryven from veiles,*  
+*For the oth, for the glorie, thurgh sorwe and peyne,*  
+*The Cité — that quæste that no knyght may atteyne.*
+
+## Plans
+- 
