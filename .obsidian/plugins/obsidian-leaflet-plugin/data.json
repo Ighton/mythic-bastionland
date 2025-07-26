@@ -1687,6 +1687,565 @@
       "files": [
         "1. Notes/Map.md"
       ]
+    },
+    {
+      "id": "sweibar-regional",
+      "lastAccessed": 1753531162994,
+      "markers": [
+        {
+          "id": "ID_c97ba968c85a",
+          "type": "Holding",
+          "loc": [
+            -36.5625,
+            30.9375
+          ],
+          "link": "Bannockbry",
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb2a5978ea4b",
+          "type": "Holding",
+          "loc": [
+            -36.75,
+            6.4375
+          ],
+          "link": "Pembroke",
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea8879f9fb18",
+          "type": "Holding",
+          "loc": [
+            -9,
+            14.5625
+          ],
+          "link": "Aelyn's Gate",
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b92a8b0aa878",
+          "type": "Holding",
+          "loc": [
+            -20.4375,
+            34.5
+          ],
+          "link": "Abbey of St. Maleor",
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_78185b1b79c8",
+          "type": "Myth",
+          "loc": [
+            -55.125,
+            6.75
+          ],
+          "link": "5. Myth of the Sprite",
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3979fa68abdb",
+          "type": "Myth",
+          "loc": [
+            -20.6875,
+            42.8125
+          ],
+          "link": "4. Myth of the Order",
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dbdb285a0909",
+          "type": "Myth",
+          "loc": [
+            -11.4375,
+            2.625
+          ],
+          "link": "1. Myth of the Wyvern",
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2ac97928e9aa",
+          "type": "Myth",
+          "loc": [
+            -50.8125,
+            38.8125
+          ],
+          "link": "6. Myth of the Spectre",
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38784a599a09",
+          "type": "Myth",
+          "loc": [
+            -6.5,
+            43.125
+          ],
+          "link": "3. Myth of the Hole",
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db0bba18196a",
+          "type": "Myth",
+          "loc": [
+            -25.111328125,
+            2.3125
+          ],
+          "link": "2. Myth of the Fortress",
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9cb99e998d9",
+          "type": "Dwelling",
+          "loc": [
+            -28.25,
+            22.375
+          ],
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4508816120906801,
+            0.4429201371876531
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b39d91b180a",
+          "type": "Dwelling",
+          "loc": [
+            -18.0625,
+            6.75
+          ],
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aaa9a8e9ca2b",
+          "type": "Dwelling",
+          "loc": [
+            -46.0625,
+            6.3125
+          ],
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4ad8ca9be9b9",
+          "type": "Dwelling",
+          "loc": [
+            -18.3125,
+            14.5625
+          ],
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_192898bb48db",
+          "type": "Sanctum",
+          "loc": [
+            -13.5,
+            38.6875
+          ],
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a2b084acb4b",
+          "type": "Sanctum",
+          "loc": [
+            -27.4375,
+            14.5625
+          ],
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38698bfa7999",
+          "type": "Sanctum",
+          "loc": [
+            -46.4375,
+            14.4375
+          ],
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9a92969f82a",
+          "type": "Monument",
+          "loc": [
+            -15.8125,
+            26.8125
+          ],
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5403022670025189,
+            0.24791768740813327
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba4bbbb9c838",
+          "type": "Monument",
+          "loc": [
+            -46.0625,
+            30.625
+          ],
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6171284634760705,
+            0.7221950024497795
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38ea89b8caeb",
+          "type": "Monument",
+          "loc": [
+            -34.375,
+            18.625
+          ],
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.37531486146095716,
+            0.5389514943655072
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48984b2a98d8",
+          "type": "Hazard",
+          "loc": [
+            -39.3125,
+            26.75
+          ],
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5390428211586902,
+            0.6163645271925526
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9394adb39ea",
+          "type": "Hazard",
+          "loc": [
+            -27.611328125,
+            30.8125
+          ],
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_586b08f85949",
+          "type": "Hazard",
+          "loc": [
+            -13.5,
+            22.4375
+          ],
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4521410579345088,
+            0.2116609505144537
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9cb482b0b3b",
+          "type": "Hazard",
+          "loc": [
+            -50.625,
+            6.625
+          ],
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.13350125944584382,
+            0.7937285644292014
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38ca996809bb",
+          "type": "Curse",
+          "loc": [
+            -43.625,
+            2.3125
+          ],
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.04659949622166247,
+            0.6839784419402254
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6ada59bbe9d8",
+          "type": "Curse",
+          "loc": [
+            -8.875,
+            6.4375
+          ],
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.1297229219143577,
+            0.13914747672709457
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8bab6a0b2b99",
+          "type": "Curse",
+          "loc": [
+            -8.9375,
+            30.6875
+          ],
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6183879093198993,
+            0.14012738853503184
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f8fbeb4ba9e8",
+          "type": "Ruin",
+          "loc": [
+            -24.84375,
+            42.90625
+          ],
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8646095717884131,
+            0.38951494365507106
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_595b193b1aea",
+          "type": "Ruin",
+          "loc": [
+            -20.6875,
+            26.625
+          ],
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5365239294710328,
+            0.32435080842724157
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_393aebdbfbab",
+          "type": "Ruin",
+          "loc": [
+            -25.25,
+            10.4375
+          ],
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.21032745591939547,
+            0.3958843704066634
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_78bad8abfa1b",
+          "type": "Ruin",
+          "loc": [
+            -50.8125,
+            14.625
+          ],
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2947103274559194,
+            0.7966682998530132
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Realm Map.md"
+      ]
     }
   ],
   "defaultMarker": {
@@ -1701,9 +2260,9 @@
   },
   "markerIcons": [
     {
-      "type": "Bar",
-      "iconName": "cocktail",
-      "color": "#e07b29",
+      "type": "Holding",
+      "iconName": "chess-rook",
+      "color": "#8a9999",
       "alpha": 1,
       "layer": true,
       "transform": {
@@ -1713,13 +2272,13 @@
       },
       "isImage": false,
       "tags": [],
-      "minZoom": 15,
+      "minZoom": null,
       "maxZoom": null
     },
     {
-      "type": "Food",
-      "iconName": "utensils",
-      "color": "#e07b29",
+      "type": "Myth",
+      "iconName": "question",
+      "color": "#934ea6",
       "alpha": 1,
       "layer": true,
       "transform": {
@@ -1729,45 +2288,13 @@
       },
       "isImage": false,
       "tags": [],
-      "minZoom": 15,
+      "minZoom": null,
       "maxZoom": null
     },
     {
-      "type": "Entertainment",
-      "iconName": "dice",
-      "color": "#94f5ea",
-      "alpha": 1,
-      "layer": true,
-      "transform": {
-        "size": 6,
-        "x": 0,
-        "y": -2
-      },
-      "isImage": false,
-      "tags": [],
-      "minZoom": 15,
-      "maxZoom": null
-    },
-    {
-      "type": "Leisure",
+      "type": "Dwelling",
       "iconName": "bed",
-      "color": "#94f5ea",
-      "alpha": 1,
-      "layer": true,
-      "transform": {
-        "size": 6,
-        "x": 0,
-        "y": -2
-      },
-      "isImage": false,
-      "tags": [],
-      "minZoom": 15,
-      "maxZoom": null
-    },
-    {
-      "type": "Gang Turf",
-      "iconName": "exclamation-triangle",
-      "color": "#892a2a",
+      "color": "#e3e07d",
       "alpha": 1,
       "layer": true,
       "transform": {
@@ -1781,9 +2308,9 @@
       "maxZoom": null
     },
     {
-      "type": "Undercity Entrance",
-      "iconName": "dungeon",
-      "color": "#700016",
+      "type": "Sanctum",
+      "iconName": "scroll",
+      "color": "#8c44e4",
       "alpha": 1,
       "layer": true,
       "transform": {
@@ -1797,9 +2324,9 @@
       "maxZoom": null
     },
     {
-      "type": "Office",
-      "iconName": "user-tie",
-      "color": "#a6a6a6",
+      "type": "Monument",
+      "iconName": "monument",
+      "color": "#91b757",
       "alpha": 1,
       "layer": true,
       "transform": {
@@ -1813,9 +2340,9 @@
       "maxZoom": null
     },
     {
-      "type": "Coffee",
-      "iconName": "coffee",
-      "color": "#e07b29",
+      "type": "Hazard",
+      "iconName": "exclamation",
+      "color": "#c75252",
       "alpha": 1,
       "layer": true,
       "transform": {
@@ -1829,9 +2356,9 @@
       "maxZoom": null
     },
     {
-      "type": "Industry",
-      "iconName": "industry",
-      "color": "#8996a4",
+      "type": "Curse",
+      "iconName": "skull-crossbones",
+      "color": "#4e4bd2",
       "alpha": 1,
       "layer": true,
       "transform": {
@@ -1845,9 +2372,9 @@
       "maxZoom": null
     },
     {
-      "type": "Residence",
-      "iconName": "home",
-      "color": "#998cde",
+      "type": "Ruin",
+      "iconName": "eye",
+      "color": "#ecab51",
       "alpha": 1,
       "layer": true,
       "transform": {
