@@ -6,7 +6,8 @@
     "extended-colorschemes",
     "its-frontmatter",
     "minimal-cards",
-    "S - Images Adjustments"
+    "S - Images Adjustments",
+    "dashboard-ReadLineLength"
   ],
   "baseFontSize": 17,
   "theme": "obsidian",

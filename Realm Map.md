@@ -1,5 +1,7 @@
 ---
 obsidianUIMode: preview
+cssclasses:
+  - dashboard
 ---
 
 ```leaflet

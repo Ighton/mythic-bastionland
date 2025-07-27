@@ -14,7 +14,9 @@
 - Consider: how does our adventure start. Why are you traveling together?
 **Introduction to style of play, expectations**
 - You are knights of the realm, and each swore an oath: To seek myth, and protect the seers.
-- In play: travel a lot. Talk to locals for knowledge. 
-- Your ultimate goal: gain glory. Glory is earned by "finishing" myths. That might mean slaying a creature, or simply 
+- In play: travel a lot. Talk to locals for knowledge. Visit a seer for guidance.
+- Your ultimate goal: gain glory. Glory is earned by "finishing" myths. That might mean slaying a creature, or simply witnessing the entire ordeal.
+- Let's play 18 sessions, 6 sessions per age?
 **Introduction to the area, map, context**
-
+- Welcome to the [[March of Dunwarr]], ruled by [[Prince Eurion, The Emerald Knight]], from [[Bannockbry]].
+- It is a warm realm, known for its lush forests and treacherous crags.
