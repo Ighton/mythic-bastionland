@@ -9,4 +9,5 @@
 *The Cité — that quæste that no knyght may atteyne.*
 
 ## Plans
+- Dinner at [[Lady Deryn, The Dusk Knight]]'s estate in [[Aelyn's Gate]]. It is fine. She is courteous, but cold.
 - 
