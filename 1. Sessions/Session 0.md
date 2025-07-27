@@ -13,5 +13,8 @@
 - Follow the book
 - Consider: how does our adventure start. Why are you traveling together?
 **Introduction to style of play, expectations**
+- You are knights of the realm, and each swore an oath: To seek myth, and protect the seers.
+- In play: travel a lot. Talk to locals for knowledge. 
+- Your ultimate goal: gain glory. Glory is earned by "finishing" myths. That might mean slaying a creature, or simply 
 **Introduction to the area, map, context**
 
