@@ -1690,7 +1690,7 @@
     },
     {
       "id": "sweibar-regional",
-      "lastAccessed": 1753607276973,
+      "lastAccessed": 1753625740506,
       "markers": [
         {
           "id": "ID_c97ba968c85a",
@@ -1781,14 +1781,17 @@
           "id": "ID_3979fa68abdb",
           "type": "Myth",
           "loc": [
-            -20.6875,
-            42.8125
+            -30.5,
+            42.6875
           ],
           "link": "4. Myth of the Order",
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.8602015113350125,
+            0.4781969622733954
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -2120,6 +2123,7 @@
             -43.625,
             2.3125
           ],
+          "link": "Mossy Air",
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -2139,6 +2143,7 @@
             -8.875,
             6.4375
           ],
+          "link": "Merciless Winds",
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -2158,6 +2163,7 @@
             -8.9375,
             30.6875
           ],
+          "link": "Drizzle Veil",
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -2240,6 +2246,26 @@
           "percent": [
             0.2947103274559194,
             0.7966682998530132
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19784b4b491a",
+          "type": "Curse",
+          "loc": [
+            -29.8125,
+            10.625
+          ],
+          "link": "Dizzying Reeds",
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2141057934508816,
+            0.46741793238608526
           ],
           "description": null,
           "minZoom": null,

@@ -1,0 +1,2 @@
+
+- If you travel in the next Phase it counts as travelling blind.
