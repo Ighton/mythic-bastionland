@@ -3,7 +3,7 @@
   "attachmentFolderPath": "7. Attachments",
   "alwaysUpdateLinks": true,
   "livePreview": true,
-  "propertiesInDocument": "source",
+  "propertiesInDocument": "hidden",
   "vimMode": false,
   "showLineNumber": false,
   "showInlineTitle": true,

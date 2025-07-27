@@ -1690,7 +1690,7 @@
     },
     {
       "id": "sweibar-regional",
-      "lastAccessed": 1753625740506,
+      "lastAccessed": 1753627667323,
       "markers": [
         {
           "id": "ID_c97ba968c85a",
@@ -1869,15 +1869,15 @@
           "id": "ID_a9cb99e998d9",
           "type": "Dwelling",
           "loc": [
-            -28.25,
-            22.375
+            -27.5,
+            22.53125
           ],
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.4508816120906801,
-            0.4429201371876531
+            0.4540302267002519,
+            0.43116119549240567
           ],
           "description": null,
           "minZoom": null,
@@ -1920,8 +1920,8 @@
           "id": "ID_4ad8ca9be9b9",
           "type": "Dwelling",
           "loc": [
-            -18.3125,
-            14.5625
+            -15.90625,
+            42.84375
           ],
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
@@ -1993,6 +1993,7 @@
             -15.8125,
             26.8125
           ],
+          "link": "Worldview Peak",
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -2012,6 +2013,7 @@
             -46.0625,
             30.625
           ],
+          "link": "Raised Ship",
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -2031,6 +2033,7 @@
             -34.375,
             18.625
           ],
+          "link": "Offering Plinth",
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -2050,6 +2053,7 @@
             -39.3125,
             26.75
           ],
+          "link": "Stinging Leaves",
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -2069,6 +2073,7 @@
             -27.611328125,
             30.8125
           ],
+          "link": "Fierce Winds",
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -2083,13 +2088,14 @@
           "type": "Hazard",
           "loc": [
             -13.5,
-            22.4375
+            22.5
           ],
+          "link": "Earsplitting Screams",
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.4521410579345088,
+            0.4534005037783375,
             0.2116609505144537
           ],
           "description": null,
@@ -2104,6 +2110,7 @@
             -50.625,
             6.625
           ],
+          "link": "Forgotten Traps",
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -2267,6 +2274,23 @@
             0.2141057934508816,
             0.46741793238608526
           ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08a9fb9adab9",
+          "type": "Monument",
+          "loc": [
+            -16.0625,
+            2.5625
+          ],
+          "link": "Ancient Throne",
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,

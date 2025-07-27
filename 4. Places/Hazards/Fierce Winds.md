@@ -1,0 +1,1 @@
+- Devise a solution, push through (lose d6 in a Virtue, usually VIG), or go back the way you came.

@@ -1,0 +1,1 @@
+- Travellers may spend a Phase to restore SPI here as if they were consuming a Sacrament.
