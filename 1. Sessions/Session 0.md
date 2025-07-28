@@ -20,3 +20,7 @@
 **Introduction to the area, map, context**
 - Welcome to the [[March of Dunwarr]], ruled by [[Prince Eurion, The Emerald Knight]], from [[Bannockbry]].
 - It is a warm realm, known for its lush forests and treacherous crags.
+
+## Review
+- Players are young knights, having come to the realm in search for glory.
+- 9-10 sessions per age, 20 sessions total.
