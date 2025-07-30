@@ -1,5 +1,5 @@
 - A small plateau and cavern look out over the rough canyons below
-- Inside the cavern resides [[The Spectral Seer]]
-- Immaterial shadow of a life long extinguished, restricted to dwell near an urn containing their remains.
-- Sees all events that include death: past, present, and future.
-- Wants to return to a physical form.
+- Inside the cavern resides [[The Needle Seer]]
+- Tall and slender, festooned with blades.
+- Pulls open small tears in reality, showing what could have been but is now impossible.
+- Wants to make other people feel bad, but grudgingly does their duty to the Realm.

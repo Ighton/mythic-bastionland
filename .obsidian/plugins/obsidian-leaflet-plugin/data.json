@@ -1690,7 +1690,7 @@
     },
     {
       "id": "sweibar-regional",
-      "lastAccessed": 1753628347554,
+      "lastAccessed": 1753875956731,
       "markers": [
         {
           "id": "ID_c97ba968c85a",
@@ -1869,15 +1869,15 @@
           "id": "ID_a9cb99e998d9",
           "type": "Dwelling",
           "loc": [
-            -27.5,
-            22.53125
+            -27.274999618530273,
+            22.537487854224768
           ],
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.4540302267002519,
-            0.43116119549240567
+            0.45415592653349657,
+            0.4276335070029244
           ],
           "description": null,
           "minZoom": null,
@@ -1936,14 +1936,17 @@
           "id": "ID_192898bb48db",
           "type": "Sanctum",
           "loc": [
-            -13.5,
-            38.6875
+            -13.424999237060547,
+            38.91259404670654
           ],
           "link": "Canyon Vista",
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.784132877515497,
+            0.21048504438311488
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
