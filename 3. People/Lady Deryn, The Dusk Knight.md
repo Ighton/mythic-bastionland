@@ -1,3 +1,7 @@
+---
+aliases:
+  - Lady Deryn
+---
 - Of common birth, her bloodline was consecrated.
 - A wound of her hammer can sunder a memory.
 - A temperate lifestyle, refusing luxury.
