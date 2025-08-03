@@ -1,3 +1,7 @@
+---
+aliases:
+  - Sir Ceredig
+---
 - Of the Old Faith, though certainly amiable to the [[Church of the Four Divines]].
 - He is a broad, robust man, and wears crude, plain clothing, unbefitting for a knight.
 - His armor is scavenged, wields a neck-catcher.

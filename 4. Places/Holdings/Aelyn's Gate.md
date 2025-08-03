@@ -2,7 +2,11 @@ A frontier castle, home to [[Lady Deryn, The Dusk Knight]]. The central keep is 
 
 Lady Deryn has long been involved in a rivalry with [[Prince Eurion]]. One of her household recently died, tasting her drink. She suspects Eurion attempted to poison her.
 ## Relations
-**With [[Pembroke]]**: Harmonious/Succesor + Debt/Raids
+**With [[Pembroke]]**: The two Knights have a strong bond, to the point where [[Sir Ceredig, The Gallows Knight|Sir Ceredig]]'s son sits on [[Lady Deryn, The Dusk Knight|Lady Deryn]]'s council. The alliance between the two families goes back many generations.
+
+Recently, due to the famine in [[Pembroke]], raiders have been pillaging the countryside. A few weeks ago, a caravan from [[A]]
+
+Harmonious/Succesor + Debt/Raids
 
 **With [[Bannockbry]]**: [[Prince Eurion, The Emerald Knight]] and Lady Deryn are both of common blood. Though their bloodlines have formally been consecrated, they each wield the secret as a weapon of last resort.
 
