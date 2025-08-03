@@ -1,0 +1,2 @@
+- Along the valley walls, a small camp sits nestled.
+- They work tirelessly, carving the white stone of [[Bannockbry]] Castle out from the cliffside.

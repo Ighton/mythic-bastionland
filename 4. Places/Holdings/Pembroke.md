@@ -5,7 +5,9 @@ The fortified manor is well-built, in Romanesque style of beige stone, with smal
 A weak harvest has lead to a widespread famine across the holding. Sir Ceredig, fearing revolt, has put down any who speak up.
 
 ## Relations
-**With [[Aelyn's Gate]]**: Harmonious/Successor  + Debt/Raids
+**With [[Aelyn's Gate]]**: The two Knights have a strong bond, to the point where [[Sir Ceredig, The Gallows Knight|Sir Ceredig]]'s son sits on [[Lady Deryn, The Dusk Knight|Lady Deryn]]'s council. The alliance between the two families goes back many generations.
+
+Recently, due to the famine in [[Pembroke]], raiders have been pillaging the countryside. A few weeks ago, a caravan from [[Aelyn's Gate]] was brutally pillaged just a few hours away from [[Pembroke]]. Lady Deryn is furious, and is considering how to proceed.
 
 **With [[Bannockbry]]**: Though [[Prince Eurion, The Emerald Knight]] greatly respects Sir Ceredig, the King has ordered the forced conversion of all Knights to the [[Church of the Four Divines]]. 
 

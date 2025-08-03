@@ -1,0 +1,2 @@
+- Amidst the rolling fields, a handful of houses sit.
+- The local shepherds have little care for authority, though they treat travelers warmly enough.
