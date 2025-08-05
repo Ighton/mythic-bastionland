@@ -1,0 +1,4 @@
+- A smithy in 0704, carved out of the pale-red cliff-side.
+- Three homes sit around it, along with some fields.
+- Home to three smiths and their families. One of them is [[Smith Samzun]].
+- They have been harassed for close to a year by the [[4. Myth of the Order|Order of St. Lymond]].
