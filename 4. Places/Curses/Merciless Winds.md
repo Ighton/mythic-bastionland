@@ -1,2 +1,2 @@
-
+- Howling winds kick up blinding dust along the narrow crags that wind through this hex.
 - If you travel in the next Phase it counts as travelling blind.
