@@ -13,3 +13,6 @@ A failed marriage proposal between the two families, and the attempt on Lady Der
 **With [[Abbey of St. Maleor]]**: 
 
 Secret/Mentor + Waterway/Tension
+
+## The Council
+****
