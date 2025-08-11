@@ -4,4 +4,4 @@
 
 ## Recruiting in Aelyn's Gate
 - [[Lady Deryn, The Dusk Knight|Lady Deryn]] needs [[Prince Eurion, The Emerald Knight|Prince Eurion]] dealt with before she can send a regiment with them.
-- The sherrif of Aelyn's Gate has been unsuccesful in persuading her to sent out a party to hunt for the beast.
+- The sherrif of Aelyn's Gate has been unsuccessful in persuading her to sent out a party to hunt for the beast.
