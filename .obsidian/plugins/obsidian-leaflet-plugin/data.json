@@ -1690,7 +1690,7 @@
     },
     {
       "id": "sweibar-regional",
-      "lastAccessed": 1754255954882,
+      "lastAccessed": 1753875956731,
       "markers": [
         {
           "id": "ID_c97ba968c85a",
@@ -1872,7 +1872,6 @@
             -27.274999618530273,
             22.537487854224768
           ],
-          "link": "Stonecutting Camp",
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -1892,7 +1891,6 @@
             -18.0625,
             6.75
           ],
-          "link": "Shepherd Fields",
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,

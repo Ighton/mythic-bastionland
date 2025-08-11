@@ -18,7 +18,7 @@
 - Your ultimate goal: gain glory. Glory is earned by "finishing" myths. That might mean slaying a creature, or simply witnessing the entire ordeal.
 - Let's play 18 sessions, 6 sessions per age?
 **Introduction to the area, map, context**
-- Welcome to the [[March of Dunwarr]], ruled by [[Prince Eurion, The Emerald Knight]], from [[Bannockbry]].
+- Welcome to the [[Eastmark]], ruled by [[Prince Eurion, The Emerald Knight]], from [[Bannockbry]].
 - It is a warm realm, known for its lush forests and treacherous crags.
 
 ## Review

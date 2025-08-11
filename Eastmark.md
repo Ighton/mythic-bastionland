@@ -1,0 +1,2 @@
+- A distant realm, ruled by [[Prince Eurion, The Emerald Knight]].
+- 
