@@ -15,4 +15,4 @@ A failed marriage proposal between the two families, and the attempt on Lady Der
 Secret/Mentor + Waterway/Tension
 
 ## The Council
-****
+**Court Chaplain**: [[Father Rhys]]
