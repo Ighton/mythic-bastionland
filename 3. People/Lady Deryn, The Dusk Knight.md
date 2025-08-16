@@ -3,7 +3,7 @@ aliases:
   - Lady Deryn
 ---
 - Of common birth, her bloodline was consecrated.
-- A wound of her hammer can sunder a memory.
+- A wound of her hammer can sunder a memory. She crafted it herself.
 - A temperate lifestyle, refusing luxury.
 - Short of stature, wearing traditional clothing.
 - She is ambitious, with an interest in smithing.
