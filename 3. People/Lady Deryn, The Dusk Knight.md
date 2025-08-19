@@ -2,6 +2,7 @@
 aliases:
   - Lady Deryn
 ---
+"**" - The Judge
 - Of common birth, her bloodline was consecrated.
 - A wound of her hammer can sunder a memory. She crafted it herself.
 - A temperate lifestyle, refusing luxury.
