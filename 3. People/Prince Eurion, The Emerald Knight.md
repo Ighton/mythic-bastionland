@@ -2,6 +2,7 @@
 aliases:
   - Prince Eurion
 ---
+"**" - The Healer
 - Of common birth, his bloodline was consecrated.
 - He is a frail man, commonly wearing armor in order to seem more intimidating
 - A cautious personality, with an interest in the arts.
