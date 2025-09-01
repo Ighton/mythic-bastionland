@@ -4,7 +4,6 @@
 - Handle downtime, actions of each players.
 - Updates: news from the realm. Introduce [[Lady Tressara, The Dust Knight]]
 - Visit the Carved Seer at the [[Silent Grove]].
-
 ## [[The Carved Seer]]
 - Meet the carved seer at the [[Silent Grove]].
 - The lush morass is quiet, except for the pained groans of the seer.
