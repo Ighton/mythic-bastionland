@@ -1690,7 +1690,7 @@
     },
     {
       "id": "sweibar-regional",
-      "lastAccessed": 1757353062373,
+      "lastAccessed": 1757679416360,
       "markers": [
         {
           "id": "ID_c97ba968c85a",
@@ -1798,40 +1798,6 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_dbdb285a0909",
-          "type": "Myth",
-          "loc": [
-            -11.4375,
-            2.625
-          ],
-          "link": "1. Myth of the Wyvern",
-          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_2ac97928e9aa",
-          "type": "Myth",
-          "loc": [
-            -50.8125,
-            38.8125
-          ],
-          "link": "6. Myth of the Spectre",
-          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
           "id": "ID_38784a599a09",
           "type": "Myth",
           "loc": [
@@ -1839,23 +1805,6 @@
             43.125
           ],
           "link": "3. Myth of the Hole",
-          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_db0bba18196a",
-          "type": "Myth",
-          "loc": [
-            -25.111328125,
-            2.3125
-          ],
-          "link": "2. Myth of the Fortress",
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -1906,13 +1855,16 @@
           "id": "ID_aaa9a8e9ca2b",
           "type": "Dwelling",
           "loc": [
-            -46.0625,
-            6.3125
+            -43.75,
+            10.375
           ],
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.20906801007556675,
+            0.6859382655560999
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -2132,16 +2084,16 @@
           "id": "ID_38ca996809bb",
           "type": "Curse",
           "loc": [
-            -43.625,
-            2.3125
+            -39.125,
+            2.25
           ],
           "link": "Mossy Air",
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.04659949622166247,
-            0.6839784419402254
+            0.04534005037783375,
+            0.6134247917687408
           ],
           "description": null,
           "minZoom": null,
@@ -2319,6 +2271,46 @@
           "percent": [
             0.5547858942065491,
             0.32239098481136697
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb8ba82a49e8",
+          "type": "Myth",
+          "loc": [
+            -48.84375,
+            34.71875
+          ],
+          "link": "6. Myth of the Wight",
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6996221662468514,
+            0.7658010779029887
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3999e9599b89",
+          "type": "Myth",
+          "loc": [
+            -43.71875,
+            2.375
+          ],
+          "link": "1. Myth of the Inferno",
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.04785894206549118,
+            0.6854483096521313
           ],
           "description": null,
           "minZoom": null,
