@@ -16,3 +16,4 @@ Secret/Mentor + Waterway/Tension
 
 ## The Council
 **Court Chaplain**: [[Father Rhys]]
+**Sherriff**: [[Sir Rhain]]

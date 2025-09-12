@@ -1,6 +1,6 @@
 - A castle sits atop a spire in this hex. It is clearly dilapidated and abandoned.
 - A stone gate connects to a gatehouse opposite, spanning the pass. The gate appears open.
-## Site: ...
+## Site: Dunbarrow Keep
 **1 - Narrow Passageway**
 - A winding passage leads to the castle.
 - Alongside the passage lie the remains of several dozen attackers, mostly bone now.
@@ -12,6 +12,8 @@
 - Travellers may spend a Phase to restore SPI here as if they were consuming a Sacrament.
 **4 - Upper Hall**
 - A small collection of dilapidated rooms filled with rotted furniture.
-**5 -**
+**5 - Hidden attic**
+- A trapdoor in the ceiling grants access to a narrow storage space near the top of the tower.
+- Still hidden here are various family jewels, as well as **Oathbreaker's Band**, carved with the forbidden sigils of the [[Netherrealms]]
 **6 - Gate tower**
 - A narrow tower on the other side of the gate. The crenelations are battle-scarred.
