@@ -1,7 +1,6 @@
-Monastery dedicated to the legendary [[Maleor the Beseecher]], victor of the [[Crusade of the Ashen See]]. Ruled by [[Father Avilius]], answers to the Patriarch of Vothos.
+Monastery dedicated to the legendary [[Maleor the Beseecher]], victor of the [[Crusade of the Ashen See]]. Ruled by [[Father Rhys]], answers to the Patriarch of Vothos.
 
-Six of the abbey's fourteen brothers and sisters have been slain. The remaining monks cower in fear, and [[Father Avilius]] is struggling for answers.
-
+[[Father Rhys]] has risen to this position from Court Chaplain of [[Aelyn's Gate]]. [[Lady Deryn, The Dusk Knight|Lady Deryn]] was a great factor in this "promotion". With the [[Church of the Four Divines]] growing in the realm, the power of the abbot greatly grows.
 ## Relations
 **With [[Pembroke]]**: [[Sir Ceredig, The Gallows Knight]] has recently offered the abbot to inherit a small part of his lands, hoping to earn favor with the Divines. However, this has put him in bad standing with his own peoples.
 
