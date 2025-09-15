@@ -1,6 +1,6 @@
 A frontier castle, home to [[Lady Deryn, The Dusk Knight]]. The central keep is adorned with a tall, dark spire. Within the walls sits a large open forum, considered sacred ground. Within the keep, a great hearth warms the great hall. Walls are adorned with scriptures from the [[Book of Divine Law]].
 
-Lady Deryn has long been involved in a rivalry with [[Prince Eurion]]. One of her household recently died, tasting her drink. She suspects Eurion attempted to poison her.
+With Lady Deryn growing reclusive as she ages, her steward [[Sir Cadell]] has taken over in all  but name. With no heirs to her name, the title is likely to return to the Prince on her death.
 ## Relations
 **With [[Pembroke]]**: The two Knights have a strong bond, to the point where [[Sir Ceredig, The Gallows Knight|Sir Ceredig]]'s son sits on [[Lady Deryn, The Dusk Knight|Lady Deryn]]'s council. The alliance between the two families goes back many generations.
 

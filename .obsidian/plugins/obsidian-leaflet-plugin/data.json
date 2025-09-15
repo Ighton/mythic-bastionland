@@ -1690,7 +1690,7 @@
     },
     {
       "id": "sweibar-regional",
-      "lastAccessed": 1757679416360,
+      "lastAccessed": 1757943929101,
       "markers": [
         {
           "id": "ID_c97ba968c85a",
@@ -2281,16 +2281,16 @@
           "id": "ID_cb8ba82a49e8",
           "type": "Myth",
           "loc": [
-            -48.84375,
-            34.71875
+            -23.125,
+            14.875
           ],
           "link": "6. Myth of the Wight",
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.6996221662468514,
-            0.7658010779029887
+            0.29974811083123426,
+            0.3625673689367957
           ],
           "description": null,
           "minZoom": null,
@@ -2301,16 +2301,36 @@
           "id": "ID_3999e9599b89",
           "type": "Myth",
           "loc": [
-            -43.71875,
-            2.375
+            -48.75,
+            2.3125
           ],
           "link": "1. Myth of the Inferno",
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.04785894206549118,
-            0.6854483096521313
+            0.04659949622166247,
+            0.7643312101910829
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a96b59eaa81a",
+          "type": "Myth",
+          "loc": [
+            -50.96875,
+            38.78125
+          ],
+          "link": "2. Myth of the Wurm",
+          "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7814861460957179,
+            0.7991180793728564
           ],
           "description": null,
           "minZoom": null,

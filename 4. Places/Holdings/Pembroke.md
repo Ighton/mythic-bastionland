@@ -1,9 +1,8 @@
-A fortified manor house, with several dozen dwellings within its walls. The surrounding lands serve as pasture and farmland. Ruled by [[Sir Ceredig, The Gallows Knight]].
+A fortified manor house, with several dozen dwellings within its walls. The surrounding lands serve as pasture and farmland. Ruled by [[Lady Dorka, The Temple Knight]]. She is the oldest surviving child of [[Sir Ceredig, The Gallows Knight|Sir Ceredig]].
 
 The fortified manor is well-built, in Romanesque style of beige stone, with small windows adorned with pillars. The central hall is filthy, clearly unkempt for some time. In the center of the halls hangs a dusty chandelier, and the walls are adorned with wreaths from last winter.
 
-A weak harvest has lead to a widespread famine across the holding. Sir Ceredig, fearing revolt, has put down any who speak up.
-
+Skirmishes and disease have terrorized the manor. As a result, the holding is weak, unstable, and survives only through their alliance with [[Aelyn's Gate]]. Remnants of the [[Old Faith]] have gone into hiding. 
 ## Relations
 **With [[Aelyn's Gate]]**: The two Knights have a strong bond, to the point where [[Sir Ceredig, The Gallows Knight|Sir Ceredig]]'s son sits on [[Lady Deryn, The Dusk Knight|Lady Deryn]]'s council. The alliance between the two families goes back many generations.
 

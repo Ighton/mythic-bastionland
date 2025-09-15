@@ -2,8 +2,7 @@ Seat of power of the [[Eastmark]], ruled by [[Prince Eurion, The Emerald Knight]
 
 Outer towers are adorned with tall beacons, chimney-like constructions. They are overgrown and poorly-kept. The central bailey holds a small tomb in its cellar. In the great hall, a small podium of to the side is where musicians play. The walls are adorned with heraldry from the various rulers of Bannockbry.
 
-Prince Eurion, claiming old tradition, issues a decree reinstating the ritual of Thornbinding as a form of capital punishment. In it, victims are bound to a thorntree, whose vines slowly grow and embed themselves in the body of the victim. If they survive for a week, they are absolved.
-
+The past twenty years have seen Bannockbry grow to a bustling trade hub, but the city is politically unstable. [[Prince Eurion, The Emerald Knight|Prince Eurion]], growing in age, has no heirs, and religious tensions are growing. The alliance between [[Aelyn's Gate]] and [[Pembroke]] have been a thorn in the prince's side for some time. 
 ## Relations
 **With [[Aelyn's Gate]]**: Eurion and [[Lady Deryn, The Dusk Knight]] are both of common blood. Though their bloodlines have formally been consecrated, they each wield the secret as a weapon of last resort.
 
