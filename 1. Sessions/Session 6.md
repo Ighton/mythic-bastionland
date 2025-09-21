@@ -6,4 +6,4 @@
 - [[Sir Crabbe, The Bone Knight]] has forged an alliance between [[Aelyn's Gate]] and [[Pembroke]].
 
 ## Details
-- Meet on the East Bridge at the Silver Crown pub. a
+- Meet on the East Bridge at the Silver Crown pub.
