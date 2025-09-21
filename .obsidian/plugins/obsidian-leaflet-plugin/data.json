@@ -1690,7 +1690,7 @@
     },
     {
       "id": "sweibar-regional",
-      "lastAccessed": 1757970098352,
+      "lastAccessed": 1758455671499,
       "markers": [
         {
           "id": "ID_c97ba968c85a",
@@ -2104,16 +2104,16 @@
           "id": "ID_6ada59bbe9d8",
           "type": "Curse",
           "loc": [
-            -8.875,
-            6.4375
+            -11.28125,
+            2.53125
           ],
           "link": "Merciless Winds",
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.1297229219143577,
-            0.13914747672709457
+            0.05100755667506297,
+            0.17687408133268007
           ],
           "description": null,
           "minZoom": null,
