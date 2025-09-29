@@ -1690,7 +1690,7 @@
     },
     {
       "id": "sweibar-regional",
-      "lastAccessed": 1759168546020,
+      "lastAccessed": 1759169055655,
       "markers": [
         {
           "id": "ID_c97ba968c85a",
@@ -2341,15 +2341,15 @@
           "id": "ID_498a7969298b",
           "type": "default",
           "loc": [
-            -22.53125,
-            31.21875
+            -20.1875,
+            36
           ],
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.6290931989924433,
-            0.35325820676139147
+            0.72544080604534,
+            0.3165115139637433
           ],
           "description": null,
           "minZoom": null,
