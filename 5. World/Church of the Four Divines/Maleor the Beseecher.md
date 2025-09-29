@@ -1,4 +1,4 @@
-**Maleor the Beseecher**, later canonized as **St. Maleor** was a knight and diplomat living in the late 5th era. He is most known for organizing the [[Crusade of the Ashen See]], uniting the [[Tarinnian Dynasty (House)]] and the various noble houses of the [[Kingdom of Aranthia]] into reclaiming the [[Patriarchate of Vothos]], which had been all but conquered by raiding tribes several months earlier.
+**Maleor the Beseecher** (Maleor de Beroeper), later canonized as **St. Maleor** was a knight and diplomat living in the late 5th era. He is most known for organizing the [[Crusade of the Ashen See]], uniting the [[Tarinnian Dynasty (House)]] and the various noble houses of the [[Kingdom of Aranthia]] into reclaiming the [[Patriarchate of Vothos]], which had been all but conquered by raiding tribes several months earlier.
 
 Maleor died at the end of the 5th era. He was canonized by [[Patriarch Plexor IV]] in 53, 6th era. 
 ## Life
