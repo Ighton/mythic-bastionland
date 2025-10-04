@@ -1,0 +1,1 @@
+A brewery, nestled amidst fungal forests. The proprietor uses the fungi of the forest to prepare potent drinks.

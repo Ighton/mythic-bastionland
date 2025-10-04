@@ -1690,7 +1690,7 @@
     },
     {
       "id": "sweibar-regional",
-      "lastAccessed": 1759176924198,
+      "lastAccessed": 1759596367874,
       "markers": [
         {
           "id": "ID_c97ba968c85a",
@@ -1877,6 +1877,7 @@
             -15.90625,
             42.84375
           ],
+          "link": "Fungal Brewery",
           "layer": "%5B%5Bmarch_of_dunwarr.png%5D%5D",
           "mutable": true,
           "command": false,
