@@ -1,5 +1,5 @@
 ## Plans
-- Discuss planning - this is taking a long time
+- **Inhoudelijke tangent time:** Discuss planning - this is taking a long time
 - Journey to [[Bannockbry]] to warn [[Prince Eurion, The Emerald Knight|Prince Eurion]] of the upcoming siege
 - Then likely onwards to [[Aelyn's Gate]] and [[Pembroke]] to raise an army.
 ## Details
