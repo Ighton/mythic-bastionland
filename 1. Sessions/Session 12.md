@@ -3,7 +3,7 @@
 - **Sir Turnbucke:** Scout the siege
 - **Lady Tressara:** Make favor with mercenaries
 - **Sir Foxter:** Help the wight, Sir Elgan
-- **Sir Crabbe:** Acquire gear from blacksmiths
+	- **Sir Crabbe:** Acquire gear from blacksmiths
 ## The preparation
 - The siege consists of four regiments. They have blockaded the city since middle-spring. They have built an extensive encampment including fortifications. A sortie from the city was slain.
 - They are a regiment of skirmishers, a regiment of mercenaries, a regiment of riders, and an order of knights
