@@ -21,9 +21,13 @@
 - For a single coin, grant a Coat, a Helm, or a Weapon.
 - For two coin, grant a Coat, Plates and a helm, or a Coat, a helm and a weapon.
 - For three coin, grant all four.
+---
+- The wight, [[Sir Elgan]], is struggling with his past. He will insist for a long time that his soul is doomed for hell, and that all he wishes to do is die in peace. He knows there is no redemption.
+- If persuaded, he might initiate a lonesome assault on the camp, weakening the regiments or destroying supplies. This will hurt the regiments starting health.
 
 ## The Journey
-- 
+- Journey can be quick if desired, or interject myths and troubles if a longer stretch is needed. 
 ## The Battle
 - Assume the battle takes 45 minutes, the duel takes 30 minutes, and allow another 45 minutes for wrapping up. So start 21:15 at the latest.
+- Once the troops lie defeated, a few remaining knights and the grandmaster will demand a final honorable skirmish. 
 - They can choose to either capture the grandmaster (and earn a great ransom) or slay him, and end the order permanently.
